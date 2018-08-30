@@ -37,4 +37,9 @@ function clicked() {
 		message: message.value
 	}
 	ref.push(data);
+	setTimeout(function(){
+		alert("I'll reply back to you shortly!");
+	location.reload();
+}, 200);
+
 }
