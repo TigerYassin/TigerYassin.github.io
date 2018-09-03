@@ -8,13 +8,13 @@ body{font-size:20px;color:#212529;font-family:Lora,'Times New Roman',serif}p{lin
   font-size: 18px;
   border: none;
   outline: none;
-  background-color: red;
+  background-color: #00ba9c;
   color: white;
   cursor: pointer;
   padding: 15px;
-  border-radius: 4px;
+  border-radius: 7px;
 }
 
 #myBtn:hover {
-  background-color: #555;
+  background-color: #5CD3C0;
 }
