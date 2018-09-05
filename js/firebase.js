@@ -32,7 +32,7 @@ function clicked() {
 	var ref = database.ref(Uname.value);
 
 	var data = {
-		email : email.value, 
+		email : email.value,
 		phone : phone.value,
 		message: message.value
 	}
