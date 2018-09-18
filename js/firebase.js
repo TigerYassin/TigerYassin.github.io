@@ -39,7 +39,6 @@ function clicked() {
 	ref.push(data);
 	setTimeout(function(){
 		alert("Thank You! I'll reply back to you shortly!");
-	location.reload();
-}, 200);
+}, 300);
 
 }
